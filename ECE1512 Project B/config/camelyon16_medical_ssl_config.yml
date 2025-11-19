@@ -1,0 +1,22 @@
+#opt
+train_epoch: 50           # number of epochs
+B: 1                 # batch size
+warmup_epoch: 1    # number of warm-up epochs
+wd: 0.00005               # weight decay
+lr: 0.001
+min_lr: 0
+
+
+#dset
+dataset: CAMELYON16
+n_class: 2                            # number of classes
+data_dir: './Feature/camelyon16Feature/patch_feats_pretrain_medical_ssl.h5'       # directory of dataset
+n_worker: 16                          # number of workers
+pin_memory: False                     # use pin memory in dataloader
+n_shot: -1
+n_token: 2
+# pretrained
+backbone: 'ViT-S/16'
+pretrain: 'medical_ssl'
+D_feat: 384
+D_inner: 128
