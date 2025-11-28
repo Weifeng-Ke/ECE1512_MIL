@@ -1,0 +1,41 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Dataset files and precomputed features
+# - HDF5 feature files
+*.h5
+# - Feature folders (contains large precomputed features)
+Feature/
+# - CSVs listing slides / metadata
+dataset_csv/
+*.csv
+
+# Model checkpoints / saved weights
+*.pt
+*.pth
+checkpoints/
+
+# Logs / results
+logs/
+results.txt
+
+# Environment files
+.env
+
+# Optional: exclude any particular dataset file explicitly (uncomment to keep a file)
+# !Feature/some_small_file.h5
+# !dataset_csv/keep_this.csv
