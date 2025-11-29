@@ -21,4 +21,4 @@ pretrain: 'medical_ssl'
 D_feat: 384
 D_inner: 128
 #weifeng added
-atten_heads: 1
+attn_heads: 1

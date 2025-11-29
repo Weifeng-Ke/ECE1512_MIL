@@ -1,0 +1,7 @@
+Saving run outputs to results_20251128_040858.txt
+\n===== Running config/camelyon16_medical_ssl_config.yml =====
+/venv/mil/lib/python3.10/site-packages/torchmetrics/utilities/imports.py:23: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+usage: Patch classification training [--config CONFIG]
+                                     [--attn_heads ATTN_HEADS]
+Patch classification training: error: unrecognized arguments: --wandb_project ECE1512_ProjectB --wandb_entity kenweifeng-university-of-british-columbia --wandb_run_name attn8

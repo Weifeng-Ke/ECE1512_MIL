@@ -1,0 +1,5 @@
+Saving run outputs to results_20251128_043429.txt
+\n===== Running config/camelyon16_medical_ssl_config.yml =====
+usage: Patch classification training [--config CONFIG]
+                                     [--attn_heads ATTN_HEADS]
+Patch classification training: error: unrecognized arguments: --wandb --wandb_project ECE1512_Project_B --wandb_entity ECE_1512_b --wandb_run_name attn8

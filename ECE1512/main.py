@@ -19,6 +19,9 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 def train_one_epoch(model, criterion, data_loader, optimizer,
                     device):
     model.train()
+    #Added for wandb     
+    running_loss = 0.0
+    total = 0
     for data in data_loader:
         bag = data['input'].to(device, dtype=torch.float32)
         batch_size = bag.shape[0]
@@ -28,6 +31,12 @@ def train_one_epoch(model, criterion, data_loader, optimizer,
         optimizer.zero_grad()
         train_loss.backward()
         optimizer.step()
+
+        # added for wandb
+        running_loss += train_loss.item() * batch_size
+        total += batch_size
+    # return so wandb can read the running loss
+    return running_loss / max(total, 1)
 
 
 @torch.no_grad()
@@ -67,7 +76,14 @@ def main(args):
     
     with open(args.config, "r") as ymlfile:
         c = yaml.load(ymlfile, Loader=yaml.FullLoader)
-        c.update(vars(args))
+        #c.update(vars(args))
+        #weifeng added to allow command line override of config file
+        wandb_keys = {'wandb', 'wandb_project', 'wandb_entity', 'wandb_run_name'}
+        override_args = {
+            k: v for k, v in vars(args).items()
+            if v is not None and k not in wandb_keys
+        }
+        c.update(override_args)
         print("Used config:", c, flush=True)
         conf = Struct(**c)
     
@@ -112,14 +128,44 @@ def main(args):
     print('Configuration:')
     pprint.pprint(conf)
     criterion = nn.CrossEntropyLoss()
+    #weifeng add for wandb
+    wandb_run = None
+    if args.wandb:
+        import wandb
+
+        wandb_run = wandb.init(
+            project=args.wandb_project,
+            entity=args.wandb_entity,
+            name=args.wandb_run_name,
+            config=conf.__dict__
+        )
+        wandb.watch(model, log_freq=100)
+
     best_state = {'epoch':-1, 'val_acc':0, 'val_auc':0, 'val_f1':0, 'test_acc':0, 'test_auc':0, 'test_f1':0}
     for epoch in range(conf.train_epoch):
-        train_one_epoch(model, criterion, train_loader, optimizer,
-                        device)
-        
+        #train_one_epoch(model, criterion, train_loader, optimizer,
+        #                device)
+        # weifeng modified to get train_loss for wandb
+        train_loss = train_one_epoch(
+            model, criterion, train_loader, optimizer, device
+        )
         val_auc, val_acc, val_f1, val_loss = evaluate(model, criterion, val_loader, device, conf)
         test_auc, test_acc, test_f1, test_loss = evaluate(model, criterion, test_loader, device, conf)
         scheduler.step()
+        if wandb_run:
+            wandb.log({
+                'epoch': epoch,
+                'train/loss': train_loss,
+                'val/auc': val_auc,
+                'val/acc': val_acc,
+                'val/f1': val_f1,
+                'val/loss': val_loss,
+                'test/auc': test_auc,
+                'test/acc': test_acc,
+                'test/f1': test_f1,
+                'test/loss': test_loss,
+                'lr': optimizer.param_groups[0]['lr'],
+            })
         if val_f1 + val_auc > best_state['val_f1'] + best_state['val_auc']:
             best_state['epoch'] = epoch
             best_state['val_auc'] = val_auc
@@ -131,12 +177,37 @@ def main(args):
 
     print("Results on best epoch:")
     print(best_state)
+    # weifeng added to log best results to wandb
+    if wandb_run:
+        wandb_run.summary['best/epoch'] = best_state['epoch']
+        wandb_run.summary['best/val_auc'] = best_state['val_auc']
+        wandb_run.summary['best/val_acc'] = best_state['val_acc']
+        wandb_run.summary['best/val_f1'] = best_state['val_f1']
+        wandb_run.summary['best/test_auc'] = best_state['test_auc']
+        wandb_run.summary['best/test_acc'] = best_state['test_acc']
+        wandb_run.summary['best/test_f1'] = best_state['test_f1']
+        wandb.finish()
 
 def get_arguments():
-    parser = argparse.ArgumentParser('Patch classification training', add_help=False)
+    #parser = argparse.ArgumentParser('Patch classification training', add_help=False)
+    parser = argparse.ArgumentParser(
+        'Patch classification training',
+        add_help=True,
+        allow_abbrev=False
+    )
     parser.add_argument('--config', dest='config', default='config/camelyon_config.yml',
                         help='settings of Tip-Adapter in yaml format')
-
+    #  weifeng added for wandb and attn_heads                    
+    parser.add_argument('--attn_heads', '--attn_head', dest='attn_heads', type=int, default=None,
+                        help='number of attention heads to override the config (default: use config value)')
+    parser.add_argument('--wandb', action='store_true',
+                        help='enable Weights & Biases logging')
+    parser.add_argument('--wandb_project', '--wandb-project', default='ece1512-mil',
+                        help='Weights & Biases project name (default: ece1512-mil)')
+    parser.add_argument('--wandb_entity', '--wandb-entity', default=None,
+                        help='Weights & Biases entity/team (optional)')
+    parser.add_argument('--wandb_run_name', '--wandb-run-name', default=None,
+                        help='Optional custom run name for Weights & Biases')
     args = parser.parse_args()
     return args
 
