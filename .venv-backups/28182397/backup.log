@@ -1,0 +1,762 @@
+[2025-11-25 00:08:16] Processing virtual environment: /venv/main
+[2025-11-25 00:08:17] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0008.txt
+[2025-11-25 00:08:17] Backup process completed
+[2025-11-25 00:30:01] Processing virtual environment: /venv/main
+[2025-11-25 00:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0030.txt
+[2025-11-25 00:30:02] Backup process completed
+[2025-11-25 01:00:01] Processing virtual environment: /venv/main
+[2025-11-25 01:00:03] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0100.txt
+[2025-11-25 01:00:03] Backup process completed
+[2025-11-25 01:30:01] Processing virtual environment: /venv/main
+[2025-11-25 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0130.txt
+[2025-11-25 01:30:02] Backup process completed
+[2025-11-25 02:00:01] Processing virtual environment: /venv/main
+[2025-11-25 02:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0200.txt
+[2025-11-25 02:00:02] Backup process completed
+[2025-11-25 02:30:01] Processing virtual environment: /venv/main
+[2025-11-25 02:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0230.txt
+[2025-11-25 02:30:02] Backup process completed
+[2025-11-25 03:00:01] Processing virtual environment: /venv/main
+[2025-11-25 03:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0300.txt
+[2025-11-25 03:00:02] Backup process completed
+[2025-11-25 03:30:01] Processing virtual environment: /venv/main
+[2025-11-25 03:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0330.txt
+[2025-11-25 03:30:02] Backup process completed
+[2025-11-25 04:00:01] Processing virtual environment: /venv/main
+[2025-11-25 04:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0400.txt
+[2025-11-25 04:00:02] Backup process completed
+[2025-11-25 04:30:01] Processing virtual environment: /venv/main
+[2025-11-25 04:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0430.txt
+[2025-11-25 04:30:02] Backup process completed
+[2025-11-25 05:00:01] Processing virtual environment: /venv/main
+[2025-11-25 05:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0500.txt
+[2025-11-25 05:00:02] Backup process completed
+[2025-11-25 05:30:01] Processing virtual environment: /venv/main
+[2025-11-25 05:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0530.txt
+[2025-11-25 05:30:02] Backup process completed
+[2025-11-25 06:00:01] Processing virtual environment: /venv/main
+[2025-11-25 06:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0600.txt
+[2025-11-25 06:00:02] Backup process completed
+[2025-11-25 06:30:01] Processing virtual environment: /venv/main
+[2025-11-25 06:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0630.txt
+[2025-11-25 06:30:02] Backup process completed
+[2025-11-25 07:00:01] Processing virtual environment: /venv/main
+[2025-11-25 07:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0700.txt
+[2025-11-25 07:00:02] Backup process completed
+[2025-11-25 07:30:01] Processing virtual environment: /venv/main
+[2025-11-25 07:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0730.txt
+[2025-11-25 07:30:02] Backup process completed
+[2025-11-25 08:00:01] Processing virtual environment: /venv/main
+[2025-11-25 08:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0800.txt
+[2025-11-25 08:00:02] Backup process completed
+[2025-11-25 08:30:01] Processing virtual environment: /venv/main
+[2025-11-25 08:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0830.txt
+[2025-11-25 08:30:02] Backup process completed
+[2025-11-25 09:00:01] Processing virtual environment: /venv/main
+[2025-11-25 09:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0900.txt
+[2025-11-25 09:00:02] Backup process completed
+[2025-11-25 09:30:01] Processing virtual environment: /venv/main
+[2025-11-25 09:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-0930.txt
+[2025-11-25 09:30:02] Backup process completed
+[2025-11-25 10:00:01] Processing virtual environment: /venv/main
+[2025-11-25 10:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1000.txt
+[2025-11-25 10:00:02] Backup process completed
+[2025-11-25 10:30:01] Processing virtual environment: /venv/main
+[2025-11-25 10:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1030.txt
+[2025-11-25 10:30:02] Backup process completed
+[2025-11-25 11:00:01] Processing virtual environment: /venv/main
+[2025-11-25 11:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1100.txt
+[2025-11-25 11:00:02] Backup process completed
+[2025-11-25 11:30:01] Processing virtual environment: /venv/main
+[2025-11-25 11:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1130.txt
+[2025-11-25 11:30:02] Backup process completed
+[2025-11-25 12:00:01] Processing virtual environment: /venv/main
+[2025-11-25 12:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1200.txt
+[2025-11-25 12:00:02] Backup process completed
+[2025-11-25 12:30:01] Processing virtual environment: /venv/main
+[2025-11-25 12:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1230.txt
+[2025-11-25 12:30:02] Backup process completed
+[2025-11-25 13:00:01] Processing virtual environment: /venv/main
+[2025-11-25 13:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1300.txt
+[2025-11-25 13:00:02] Backup process completed
+[2025-11-25 13:30:01] Processing virtual environment: /venv/main
+[2025-11-25 13:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1330.txt
+[2025-11-25 13:30:01] Backup process completed
+[2025-11-25 14:00:02] Processing virtual environment: /venv/main
+[2025-11-25 14:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1400.txt
+[2025-11-25 14:00:02] Backup process completed
+[2025-11-25 14:30:01] Processing virtual environment: /venv/main
+[2025-11-25 14:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1430.txt
+[2025-11-25 14:30:02] Backup process completed
+[2025-11-25 15:00:01] Processing virtual environment: /venv/main
+[2025-11-25 15:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1500.txt
+[2025-11-25 15:00:02] Backup process completed
+[2025-11-25 15:30:01] Processing virtual environment: /venv/main
+[2025-11-25 15:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1530.txt
+[2025-11-25 15:30:02] Backup process completed
+[2025-11-25 16:00:01] Processing virtual environment: /venv/main
+[2025-11-25 16:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1600.txt
+[2025-11-25 16:00:02] Backup process completed
+[2025-11-25 16:30:01] Processing virtual environment: /venv/main
+[2025-11-25 16:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1630.txt
+[2025-11-25 16:30:02] Backup process completed
+[2025-11-25 17:00:01] Processing virtual environment: /venv/main
+[2025-11-25 17:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1700.txt
+[2025-11-25 17:00:02] Backup process completed
+[2025-11-25 17:30:01] Processing virtual environment: /venv/main
+[2025-11-25 17:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1730.txt
+[2025-11-25 17:30:02] Backup process completed
+[2025-11-25 18:00:01] Processing virtual environment: /venv/main
+[2025-11-25 18:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1800.txt
+[2025-11-25 18:00:02] Backup process completed
+[2025-11-25 18:30:01] Processing virtual environment: /venv/main
+[2025-11-25 18:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1830.txt
+[2025-11-25 18:30:02] Backup process completed
+[2025-11-25 19:00:01] Processing virtual environment: /venv/main
+[2025-11-25 19:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1900.txt
+[2025-11-25 19:00:02] Backup process completed
+[2025-11-25 19:30:01] Processing virtual environment: /venv/main
+[2025-11-25 19:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-1930.txt
+[2025-11-25 19:30:02] Backup process completed
+[2025-11-25 20:00:01] Processing virtual environment: /venv/main
+[2025-11-25 20:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2000.txt
+[2025-11-25 20:00:02] Backup process completed
+[2025-11-25 20:30:01] Processing virtual environment: /venv/main
+[2025-11-25 20:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2030.txt
+[2025-11-25 20:30:01] Backup process completed
+[2025-11-25 21:00:01] Processing virtual environment: /venv/main
+[2025-11-25 21:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2100.txt
+[2025-11-25 21:00:01] Backup process completed
+[2025-11-25 21:30:01] Processing virtual environment: /venv/main
+[2025-11-25 21:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2130.txt
+[2025-11-25 21:30:02] Backup process completed
+[2025-11-25 22:00:01] Processing virtual environment: /venv/main
+[2025-11-25 22:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2200.txt
+[2025-11-25 22:00:02] Backup process completed
+[2025-11-25 22:30:01] Processing virtual environment: /venv/main
+[2025-11-25 22:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2230.txt
+[2025-11-25 22:30:02] Backup process completed
+[2025-11-25 23:00:01] Processing virtual environment: /venv/main
+[2025-11-25 23:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2300.txt
+[2025-11-25 23:00:02] Backup process completed
+[2025-11-25 23:30:01] Processing virtual environment: /venv/main
+[2025-11-25 23:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-25-2330.txt
+[2025-11-25 23:30:02] Backup process completed
+[2025-11-26 00:00:01] Processing virtual environment: /venv/main
+[2025-11-26 00:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0000.txt
+[2025-11-26 00:00:02] Backup process completed
+[2025-11-26 00:30:01] Processing virtual environment: /venv/main
+[2025-11-26 00:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0030.txt
+[2025-11-26 00:30:02] Backup process completed
+[2025-11-26 01:00:01] Processing virtual environment: /venv/main
+[2025-11-26 01:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0100.txt
+[2025-11-26 01:00:02] Backup process completed
+[2025-11-26 01:30:01] Processing virtual environment: /venv/main
+[2025-11-26 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0130.txt
+[2025-11-26 01:30:02] Backup process completed
+[2025-11-26 02:00:01] Processing virtual environment: /venv/main
+[2025-11-26 02:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0200.txt
+[2025-11-26 02:00:02] Backup process completed
+[2025-11-26 02:30:01] Processing virtual environment: /venv/main
+[2025-11-26 02:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0230.txt
+[2025-11-26 02:30:02] Backup process completed
+[2025-11-26 03:00:01] Processing virtual environment: /venv/main
+[2025-11-26 03:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0300.txt
+[2025-11-26 03:00:02] Backup process completed
+[2025-11-26 03:30:01] Processing virtual environment: /venv/main
+[2025-11-26 03:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0330.txt
+[2025-11-26 03:30:02] Backup process completed
+[2025-11-26 04:00:01] Processing virtual environment: /venv/main
+[2025-11-26 04:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0400.txt
+[2025-11-26 04:00:02] Backup process completed
+[2025-11-26 04:30:01] Processing virtual environment: /venv/main
+[2025-11-26 04:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0430.txt
+[2025-11-26 04:30:02] Backup process completed
+[2025-11-26 05:00:01] Processing virtual environment: /venv/main
+[2025-11-26 05:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0500.txt
+[2025-11-26 05:00:02] Backup process completed
+[2025-11-26 05:30:01] Processing virtual environment: /venv/main
+[2025-11-26 05:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0530.txt
+[2025-11-26 05:30:02] Backup process completed
+[2025-11-26 06:00:01] Processing virtual environment: /venv/main
+[2025-11-26 06:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0600.txt
+[2025-11-26 06:00:02] Backup process completed
+[2025-11-26 06:30:01] Processing virtual environment: /venv/main
+[2025-11-26 06:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0630.txt
+[2025-11-26 06:30:02] Backup process completed
+[2025-11-26 07:00:01] Processing virtual environment: /venv/main
+[2025-11-26 07:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0700.txt
+[2025-11-26 07:00:02] Backup process completed
+[2025-11-26 07:30:01] Processing virtual environment: /venv/main
+[2025-11-26 07:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0730.txt
+[2025-11-26 07:30:02] Backup process completed
+[2025-11-26 08:00:01] Processing virtual environment: /venv/main
+[2025-11-26 08:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0800.txt
+[2025-11-26 08:00:02] Backup process completed
+[2025-11-26 08:30:01] Processing virtual environment: /venv/main
+[2025-11-26 08:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0830.txt
+[2025-11-26 08:30:02] Backup process completed
+[2025-11-26 09:00:01] Processing virtual environment: /venv/main
+[2025-11-26 09:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0900.txt
+[2025-11-26 09:00:02] Backup process completed
+[2025-11-26 09:30:01] Processing virtual environment: /venv/main
+[2025-11-26 09:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-0930.txt
+[2025-11-26 09:30:01] Backup process completed
+[2025-11-26 10:00:01] Processing virtual environment: /venv/main
+[2025-11-26 10:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1000.txt
+[2025-11-26 10:00:02] Backup process completed
+[2025-11-26 10:30:01] Processing virtual environment: /venv/main
+[2025-11-26 10:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1030.txt
+[2025-11-26 10:30:02] Backup process completed
+[2025-11-26 11:00:01] Processing virtual environment: /venv/main
+[2025-11-26 11:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1100.txt
+[2025-11-26 11:00:02] Backup process completed
+[2025-11-26 11:30:01] Processing virtual environment: /venv/main
+[2025-11-26 11:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1130.txt
+[2025-11-26 11:30:02] Backup process completed
+[2025-11-26 12:00:01] Processing virtual environment: /venv/main
+[2025-11-26 12:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1200.txt
+[2025-11-26 12:00:02] Backup process completed
+[2025-11-26 12:30:01] Processing virtual environment: /venv/main
+[2025-11-26 12:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1230.txt
+[2025-11-26 12:30:02] Backup process completed
+[2025-11-26 13:00:01] Processing virtual environment: /venv/main
+[2025-11-26 13:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1300.txt
+[2025-11-26 13:00:02] Backup process completed
+[2025-11-26 13:30:01] Processing virtual environment: /venv/main
+[2025-11-26 13:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1330.txt
+[2025-11-26 13:30:02] Backup process completed
+[2025-11-26 14:00:01] Processing virtual environment: /venv/main
+[2025-11-26 14:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1400.txt
+[2025-11-26 14:00:02] Backup process completed
+[2025-11-26 14:30:01] Processing virtual environment: /venv/main
+[2025-11-26 14:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1430.txt
+[2025-11-26 14:30:02] Backup process completed
+[2025-11-26 15:00:01] Processing virtual environment: /venv/main
+[2025-11-26 15:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1500.txt
+[2025-11-26 15:00:02] Backup process completed
+[2025-11-26 15:30:01] Processing virtual environment: /venv/main
+[2025-11-26 15:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1530.txt
+[2025-11-26 15:30:02] Backup process completed
+[2025-11-26 16:00:01] Processing virtual environment: /venv/main
+[2025-11-26 16:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1600.txt
+[2025-11-26 16:00:02] Backup process completed
+[2025-11-26 16:30:01] Processing virtual environment: /venv/main
+[2025-11-26 16:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1630.txt
+[2025-11-26 16:30:02] Backup process completed
+[2025-11-26 17:00:01] Processing virtual environment: /venv/main
+[2025-11-26 17:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1700.txt
+[2025-11-26 17:00:02] Backup process completed
+[2025-11-26 17:30:01] Processing virtual environment: /venv/main
+[2025-11-26 17:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1730.txt
+[2025-11-26 17:30:02] Backup process completed
+[2025-11-26 18:00:01] Processing virtual environment: /venv/main
+[2025-11-26 18:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1800.txt
+[2025-11-26 18:00:02] Backup process completed
+[2025-11-26 18:30:01] Processing virtual environment: /venv/main
+[2025-11-26 18:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1830.txt
+[2025-11-26 18:30:02] Backup process completed
+[2025-11-26 19:00:01] Processing virtual environment: /venv/main
+[2025-11-26 19:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1900.txt
+[2025-11-26 19:00:01] Backup process completed
+[2025-11-26 19:30:01] Processing virtual environment: /venv/main
+[2025-11-26 19:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-1930.txt
+[2025-11-26 19:30:02] Backup process completed
+[2025-11-26 20:00:01] Processing virtual environment: /venv/main
+[2025-11-26 20:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2000.txt
+[2025-11-26 20:00:02] Backup process completed
+[2025-11-26 20:30:01] Processing virtual environment: /venv/main
+[2025-11-26 20:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2030.txt
+[2025-11-26 20:30:02] Backup process completed
+[2025-11-26 21:00:01] Processing virtual environment: /venv/main
+[2025-11-26 21:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2100.txt
+[2025-11-26 21:00:02] Backup process completed
+[2025-11-26 21:30:01] Processing virtual environment: /venv/main
+[2025-11-26 21:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2130.txt
+[2025-11-26 21:30:02] Backup process completed
+[2025-11-26 22:00:01] Processing virtual environment: /venv/main
+[2025-11-26 22:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2200.txt
+[2025-11-26 22:00:02] Backup process completed
+[2025-11-26 22:30:01] Processing virtual environment: /venv/main
+[2025-11-26 22:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2230.txt
+[2025-11-26 22:30:02] Backup process completed
+[2025-11-26 23:00:01] Processing virtual environment: /venv/main
+[2025-11-26 23:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2300.txt
+[2025-11-26 23:00:02] Backup process completed
+[2025-11-26 23:30:01] Processing virtual environment: /venv/main
+[2025-11-26 23:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-26-2330.txt
+[2025-11-26 23:30:02] Backup process completed
+[2025-11-27 00:00:01] Processing virtual environment: /venv/main
+[2025-11-27 00:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0000.txt
+[2025-11-27 00:00:02] Backup process completed
+[2025-11-27 00:30:01] Processing virtual environment: /venv/main
+[2025-11-27 00:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0030.txt
+[2025-11-27 00:30:02] Backup process completed
+[2025-11-27 01:00:01] Processing virtual environment: /venv/main
+[2025-11-27 01:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0100.txt
+[2025-11-27 01:00:02] Backup process completed
+[2025-11-27 01:30:01] Processing virtual environment: /venv/main
+[2025-11-27 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0130.txt
+[2025-11-27 01:30:02] Backup process completed
+[2025-11-27 02:00:01] Processing virtual environment: /venv/main
+[2025-11-27 02:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0200.txt
+[2025-11-27 02:00:02] Backup process completed
+[2025-11-27 02:30:01] Processing virtual environment: /venv/main
+[2025-11-27 02:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0230.txt
+[2025-11-27 02:30:02] Backup process completed
+[2025-11-27 03:00:01] Processing virtual environment: /venv/main
+[2025-11-27 03:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0300.txt
+[2025-11-27 03:00:02] Backup process completed
+[2025-11-27 03:30:01] Processing virtual environment: /venv/main
+[2025-11-27 03:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0330.txt
+[2025-11-27 03:30:02] Backup process completed
+[2025-11-27 04:00:01] Processing virtual environment: /venv/main
+[2025-11-27 04:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0400.txt
+[2025-11-27 04:00:02] Backup process completed
+[2025-11-27 04:30:01] Processing virtual environment: /venv/main
+[2025-11-27 04:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0430.txt
+[2025-11-27 04:30:02] Backup process completed
+[2025-11-27 05:00:01] Processing virtual environment: /venv/main
+[2025-11-27 05:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0500.txt
+[2025-11-27 05:00:02] Backup process completed
+[2025-11-27 05:30:01] Processing virtual environment: /venv/main
+[2025-11-27 05:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0530.txt
+[2025-11-27 05:30:02] Backup process completed
+[2025-11-27 06:00:01] Processing virtual environment: /venv/main
+[2025-11-27 06:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0600.txt
+[2025-11-27 06:00:02] Backup process completed
+[2025-11-27 06:30:01] Processing virtual environment: /venv/main
+[2025-11-27 06:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0630.txt
+[2025-11-27 06:30:02] Backup process completed
+[2025-11-27 07:00:01] Processing virtual environment: /venv/main
+[2025-11-27 07:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0700.txt
+[2025-11-27 07:00:02] Backup process completed
+[2025-11-27 07:30:01] Processing virtual environment: /venv/main
+[2025-11-27 07:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0730.txt
+[2025-11-27 07:30:02] Backup process completed
+[2025-11-27 08:00:01] Processing virtual environment: /venv/main
+[2025-11-27 08:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0800.txt
+[2025-11-27 08:00:02] Backup process completed
+[2025-11-27 08:30:01] Processing virtual environment: /venv/main
+[2025-11-27 08:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0830.txt
+[2025-11-27 08:30:02] Backup process completed
+[2025-11-27 09:00:01] Processing virtual environment: /venv/main
+[2025-11-27 09:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0900.txt
+[2025-11-27 09:00:02] Backup process completed
+[2025-11-27 09:30:01] Processing virtual environment: /venv/main
+[2025-11-27 09:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-0930.txt
+[2025-11-27 09:30:02] Backup process completed
+[2025-11-27 10:00:01] Processing virtual environment: /venv/main
+[2025-11-27 10:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1000.txt
+[2025-11-27 10:00:02] Backup process completed
+[2025-11-27 10:30:01] Processing virtual environment: /venv/main
+[2025-11-27 10:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1030.txt
+[2025-11-27 10:30:02] Backup process completed
+[2025-11-27 11:00:01] Processing virtual environment: /venv/main
+[2025-11-27 11:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1100.txt
+[2025-11-27 11:00:02] Backup process completed
+[2025-11-27 11:30:01] Processing virtual environment: /venv/main
+[2025-11-27 11:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1130.txt
+[2025-11-27 11:30:02] Backup process completed
+[2025-11-27 12:00:01] Processing virtual environment: /venv/main
+[2025-11-27 12:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1200.txt
+[2025-11-27 12:00:01] Backup process completed
+[2025-11-27 12:30:01] Processing virtual environment: /venv/main
+[2025-11-27 12:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1230.txt
+[2025-11-27 12:30:02] Backup process completed
+[2025-11-27 13:00:01] Processing virtual environment: /venv/main
+[2025-11-27 13:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1300.txt
+[2025-11-27 13:00:02] Backup process completed
+[2025-11-27 13:30:01] Processing virtual environment: /venv/main
+[2025-11-27 13:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1330.txt
+[2025-11-27 13:30:02] Backup process completed
+[2025-11-27 14:00:01] Processing virtual environment: /venv/main
+[2025-11-27 14:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1400.txt
+[2025-11-27 14:00:02] Backup process completed
+[2025-11-27 14:30:01] Processing virtual environment: /venv/main
+[2025-11-27 14:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1430.txt
+[2025-11-27 14:30:02] Backup process completed
+[2025-11-27 15:00:01] Processing virtual environment: /venv/main
+[2025-11-27 15:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1500.txt
+[2025-11-27 15:00:02] Backup process completed
+[2025-11-27 15:30:01] Processing virtual environment: /venv/main
+[2025-11-27 15:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1530.txt
+[2025-11-27 15:30:02] Backup process completed
+[2025-11-27 16:00:01] Processing virtual environment: /venv/main
+[2025-11-27 16:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1600.txt
+[2025-11-27 16:00:02] Backup process completed
+[2025-11-27 16:30:01] Processing virtual environment: /venv/main
+[2025-11-27 16:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1630.txt
+[2025-11-27 16:30:02] Backup process completed
+[2025-11-27 17:00:01] Processing virtual environment: /venv/main
+[2025-11-27 17:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1700.txt
+[2025-11-27 17:00:02] Backup process completed
+[2025-11-27 17:30:01] Processing virtual environment: /venv/main
+[2025-11-27 17:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1730.txt
+[2025-11-27 17:30:01] Backup process completed
+[2025-11-27 18:00:01] Processing virtual environment: /venv/main
+[2025-11-27 18:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1800.txt
+[2025-11-27 18:00:02] Backup process completed
+[2025-11-27 18:30:01] Processing virtual environment: /venv/main
+[2025-11-27 18:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1830.txt
+[2025-11-27 18:30:02] Backup process completed
+[2025-11-27 19:00:01] Processing virtual environment: /venv/main
+[2025-11-27 19:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1900.txt
+[2025-11-27 19:00:02] Backup process completed
+[2025-11-27 19:30:01] Processing virtual environment: /venv/main
+[2025-11-27 19:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-1930.txt
+[2025-11-27 19:30:02] Backup process completed
+[2025-11-27 20:00:01] Processing virtual environment: /venv/main
+[2025-11-27 20:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2000.txt
+[2025-11-27 20:00:02] Backup process completed
+[2025-11-27 20:30:01] Processing virtual environment: /venv/main
+[2025-11-27 20:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2030.txt
+[2025-11-27 20:30:02] Backup process completed
+[2025-11-27 21:00:01] Processing virtual environment: /venv/main
+[2025-11-27 21:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2100.txt
+[2025-11-27 21:00:03] Backup process completed
+[2025-11-27 21:30:01] Processing virtual environment: /venv/main
+[2025-11-27 21:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2130.txt
+[2025-11-27 21:30:02] Backup process completed
+[2025-11-27 22:00:01] Processing virtual environment: /venv/main
+[2025-11-27 22:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2200.txt
+[2025-11-27 22:00:02] Backup process completed
+[2025-11-27 22:30:01] Processing virtual environment: /venv/main
+[2025-11-27 22:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2230.txt
+[2025-11-27 22:30:02] Backup process completed
+[2025-11-27 23:00:01] Processing virtual environment: /venv/main
+[2025-11-27 23:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2300.txt
+[2025-11-27 23:00:02] Backup process completed
+[2025-11-27 23:30:01] Processing virtual environment: /venv/main
+[2025-11-27 23:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-27-2330.txt
+[2025-11-27 23:30:02] Backup process completed
+[2025-11-28 00:00:01] Processing virtual environment: /venv/main
+[2025-11-28 00:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0000.txt
+[2025-11-28 00:00:02] Backup process completed
+[2025-11-28 00:30:01] Processing virtual environment: /venv/main
+[2025-11-28 00:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0030.txt
+[2025-11-28 00:30:02] Backup process completed
+[2025-11-28 01:00:01] Processing virtual environment: /venv/main
+[2025-11-28 01:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0100.txt
+[2025-11-28 01:00:01] Backup process completed
+[2025-11-28 01:30:01] Processing virtual environment: /venv/main
+[2025-11-28 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0130.txt
+[2025-11-28 01:30:02] Backup process completed
+[2025-11-28 02:00:01] Processing virtual environment: /venv/main
+[2025-11-28 02:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0200.txt
+[2025-11-28 02:00:02] Backup process completed
+[2025-11-28 02:30:01] Processing virtual environment: /venv/main
+[2025-11-28 02:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0230.txt
+[2025-11-28 02:30:02] Backup process completed
+[2025-11-28 03:00:01] Processing virtual environment: /venv/main
+[2025-11-28 03:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0300.txt
+[2025-11-28 03:00:02] Backup process completed
+[2025-11-28 03:30:01] Processing virtual environment: /venv/main
+[2025-11-28 03:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0330.txt
+[2025-11-28 03:30:03] Backup process completed
+[2025-11-28 04:00:01] Processing virtual environment: /venv/main
+[2025-11-28 04:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0400.txt
+[2025-11-28 04:00:03] Backup process completed
+[2025-11-28 04:30:01] Processing virtual environment: /venv/main
+[2025-11-28 04:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0430.txt
+[2025-11-28 04:30:02] Backup process completed
+[2025-11-28 05:00:01] Processing virtual environment: /venv/main
+[2025-11-28 05:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0500.txt
+[2025-11-28 05:00:02] Backup process completed
+[2025-11-28 05:30:01] Processing virtual environment: /venv/main
+[2025-11-28 05:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0530.txt
+[2025-11-28 05:30:01] Backup process completed
+[2025-11-28 06:00:02] Processing virtual environment: /venv/main
+[2025-11-28 06:00:03] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0600.txt
+[2025-11-28 06:00:03] Backup process completed
+[2025-11-28 06:30:01] Processing virtual environment: /venv/main
+[2025-11-28 06:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0630.txt
+[2025-11-28 06:30:02] Backup process completed
+[2025-11-28 07:00:01] Processing virtual environment: /venv/main
+[2025-11-28 07:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0700.txt
+[2025-11-28 07:00:01] Backup process completed
+[2025-11-28 07:30:02] Processing virtual environment: /venv/main
+[2025-11-28 07:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0730.txt
+[2025-11-28 07:30:02] Backup process completed
+[2025-11-28 08:00:01] Processing virtual environment: /venv/main
+[2025-11-28 08:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0800.txt
+[2025-11-28 08:00:02] Backup process completed
+[2025-11-28 08:30:01] Processing virtual environment: /venv/main
+[2025-11-28 08:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0830.txt
+[2025-11-28 08:30:02] Backup process completed
+[2025-11-28 09:00:01] Processing virtual environment: /venv/main
+[2025-11-28 09:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0900.txt
+[2025-11-28 09:00:02] Backup process completed
+[2025-11-28 09:30:01] Processing virtual environment: /venv/main
+[2025-11-28 09:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-0930.txt
+[2025-11-28 09:30:02] Backup process completed
+[2025-11-28 10:00:01] Processing virtual environment: /venv/main
+[2025-11-28 10:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1000.txt
+[2025-11-28 10:00:02] Backup process completed
+[2025-11-28 10:30:01] Processing virtual environment: /venv/main
+[2025-11-28 10:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1030.txt
+[2025-11-28 10:30:02] Backup process completed
+[2025-11-28 11:00:01] Processing virtual environment: /venv/main
+[2025-11-28 11:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1100.txt
+[2025-11-28 11:00:02] Backup process completed
+[2025-11-28 11:30:01] Processing virtual environment: /venv/main
+[2025-11-28 11:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1130.txt
+[2025-11-28 11:30:02] Backup process completed
+[2025-11-28 12:00:01] Processing virtual environment: /venv/main
+[2025-11-28 12:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1200.txt
+[2025-11-28 12:00:02] Backup process completed
+[2025-11-28 12:30:01] Processing virtual environment: /venv/main
+[2025-11-28 12:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1230.txt
+[2025-11-28 12:30:02] Backup process completed
+[2025-11-28 13:00:01] Processing virtual environment: /venv/main
+[2025-11-28 13:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1300.txt
+[2025-11-28 13:00:02] Backup process completed
+[2025-11-28 13:30:01] Processing virtual environment: /venv/main
+[2025-11-28 13:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1330.txt
+[2025-11-28 13:30:02] Backup process completed
+[2025-11-28 14:00:01] Processing virtual environment: /venv/main
+[2025-11-28 14:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1400.txt
+[2025-11-28 14:00:02] Backup process completed
+[2025-11-28 14:30:01] Processing virtual environment: /venv/main
+[2025-11-28 14:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1430.txt
+[2025-11-28 14:30:02] Backup process completed
+[2025-11-28 15:00:01] Processing virtual environment: /venv/main
+[2025-11-28 15:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1500.txt
+[2025-11-28 15:00:02] Backup process completed
+[2025-11-28 15:30:01] Processing virtual environment: /venv/main
+[2025-11-28 15:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1530.txt
+[2025-11-28 15:30:02] Backup process completed
+[2025-11-28 16:00:01] Processing virtual environment: /venv/main
+[2025-11-28 16:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1600.txt
+[2025-11-28 16:00:02] Backup process completed
+[2025-11-28 16:30:01] Processing virtual environment: /venv/main
+[2025-11-28 16:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1630.txt
+[2025-11-28 16:30:03] Backup process completed
+[2025-11-28 17:00:01] Processing virtual environment: /venv/main
+[2025-11-28 17:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1700.txt
+[2025-11-28 17:00:02] Backup process completed
+[2025-11-28 17:30:01] Processing virtual environment: /venv/main
+[2025-11-28 17:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1730.txt
+[2025-11-28 17:30:02] Backup process completed
+[2025-11-28 18:00:01] Processing virtual environment: /venv/main
+[2025-11-28 18:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1800.txt
+[2025-11-28 18:00:02] Backup process completed
+[2025-11-28 18:30:01] Processing virtual environment: /venv/main
+[2025-11-28 18:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1830.txt
+[2025-11-28 18:30:01] Backup process completed
+[2025-11-28 19:00:02] Processing virtual environment: /venv/main
+[2025-11-28 19:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1900.txt
+[2025-11-28 19:00:02] Backup process completed
+[2025-11-28 19:30:01] Processing virtual environment: /venv/main
+[2025-11-28 19:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-1930.txt
+[2025-11-28 19:30:02] Backup process completed
+[2025-11-28 20:00:01] Processing virtual environment: /venv/main
+[2025-11-28 20:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2000.txt
+[2025-11-28 20:00:02] Backup process completed
+[2025-11-28 20:30:01] Processing virtual environment: /venv/main
+[2025-11-28 20:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2030.txt
+[2025-11-28 20:30:02] Backup process completed
+[2025-11-28 21:00:01] Processing virtual environment: /venv/main
+[2025-11-28 21:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2100.txt
+[2025-11-28 21:00:02] Backup process completed
+[2025-11-28 21:30:01] Processing virtual environment: /venv/main
+[2025-11-28 21:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2130.txt
+[2025-11-28 21:30:02] Backup process completed
+[2025-11-28 22:00:01] Processing virtual environment: /venv/main
+[2025-11-28 22:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2200.txt
+[2025-11-28 22:00:02] Backup process completed
+[2025-11-28 22:30:01] Processing virtual environment: /venv/main
+[2025-11-28 22:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2230.txt
+[2025-11-28 22:30:02] Backup process completed
+[2025-11-28 23:00:01] Processing virtual environment: /venv/main
+[2025-11-28 23:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2300.txt
+[2025-11-28 23:00:02] Backup process completed
+[2025-11-28 23:30:01] Processing virtual environment: /venv/main
+[2025-11-28 23:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-28-2330.txt
+[2025-11-28 23:30:02] Backup process completed
+[2025-11-29 00:00:01] Processing virtual environment: /venv/main
+[2025-11-29 00:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0000.txt
+[2025-11-29 00:00:02] Backup process completed
+[2025-11-29 00:30:01] Processing virtual environment: /venv/main
+[2025-11-29 00:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0030.txt
+[2025-11-29 00:30:02] Backup process completed
+[2025-11-29 01:00:01] Processing virtual environment: /venv/main
+[2025-11-29 01:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0100.txt
+[2025-11-29 01:00:02] Backup process completed
+[2025-11-29 01:30:01] Processing virtual environment: /venv/main
+[2025-11-29 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0130.txt
+[2025-11-29 01:30:02] Backup process completed
+[2025-11-29 02:00:01] Processing virtual environment: /venv/main
+[2025-11-29 02:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0200.txt
+[2025-11-29 02:00:02] Backup process completed
+[2025-11-29 02:30:01] Processing virtual environment: /venv/main
+[2025-11-29 02:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0230.txt
+[2025-11-29 02:30:02] Backup process completed
+[2025-11-29 03:00:01] Processing virtual environment: /venv/main
+[2025-11-29 03:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0300.txt
+[2025-11-29 03:00:02] Backup process completed
+[2025-11-29 03:30:01] Processing virtual environment: /venv/main
+[2025-11-29 03:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0330.txt
+[2025-11-29 03:30:02] Backup process completed
+[2025-11-29 04:00:01] Processing virtual environment: /venv/main
+[2025-11-29 04:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0400.txt
+[2025-11-29 04:00:02] Backup process completed
+[2025-11-29 04:30:01] Processing virtual environment: /venv/main
+[2025-11-29 04:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0430.txt
+[2025-11-29 04:30:02] Backup process completed
+[2025-11-29 05:00:01] Processing virtual environment: /venv/main
+[2025-11-29 05:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0500.txt
+[2025-11-29 05:00:02] Backup process completed
+[2025-11-29 05:30:01] Processing virtual environment: /venv/main
+[2025-11-29 05:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0530.txt
+[2025-11-29 05:30:02] Backup process completed
+[2025-11-29 06:00:01] Processing virtual environment: /venv/main
+[2025-11-29 06:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0600.txt
+[2025-11-29 06:00:02] Backup process completed
+[2025-11-29 06:30:01] Processing virtual environment: /venv/main
+[2025-11-29 06:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0630.txt
+[2025-11-29 06:30:02] Backup process completed
+[2025-11-29 07:00:01] Processing virtual environment: /venv/main
+[2025-11-29 07:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0700.txt
+[2025-11-29 07:00:02] Backup process completed
+[2025-11-29 07:30:01] Processing virtual environment: /venv/main
+[2025-11-29 07:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0730.txt
+[2025-11-29 07:30:02] Backup process completed
+[2025-11-29 08:00:01] Processing virtual environment: /venv/main
+[2025-11-29 08:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0800.txt
+[2025-11-29 08:00:02] Backup process completed
+[2025-11-29 08:30:01] Processing virtual environment: /venv/main
+[2025-11-29 08:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0830.txt
+[2025-11-29 08:30:02] Backup process completed
+[2025-11-29 09:00:01] Processing virtual environment: /venv/main
+[2025-11-29 09:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0900.txt
+[2025-11-29 09:00:02] Backup process completed
+[2025-11-29 09:30:01] Processing virtual environment: /venv/main
+[2025-11-29 09:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-0930.txt
+[2025-11-29 09:30:02] Backup process completed
+[2025-11-29 10:00:01] Processing virtual environment: /venv/main
+[2025-11-29 10:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1000.txt
+[2025-11-29 10:00:02] Backup process completed
+[2025-11-29 10:30:01] Processing virtual environment: /venv/main
+[2025-11-29 10:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1030.txt
+[2025-11-29 10:30:02] Backup process completed
+[2025-11-29 11:00:01] Processing virtual environment: /venv/main
+[2025-11-29 11:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1100.txt
+[2025-11-29 11:00:02] Backup process completed
+[2025-11-29 11:30:01] Processing virtual environment: /venv/main
+[2025-11-29 11:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1130.txt
+[2025-11-29 11:30:02] Backup process completed
+[2025-11-29 12:00:01] Processing virtual environment: /venv/main
+[2025-11-29 12:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1200.txt
+[2025-11-29 12:00:02] Backup process completed
+[2025-11-29 12:30:01] Processing virtual environment: /venv/main
+[2025-11-29 12:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1230.txt
+[2025-11-29 12:30:02] Backup process completed
+[2025-11-29 13:00:01] Processing virtual environment: /venv/main
+[2025-11-29 13:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1300.txt
+[2025-11-29 13:00:02] Backup process completed
+[2025-11-29 13:30:01] Processing virtual environment: /venv/main
+[2025-11-29 13:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1330.txt
+[2025-11-29 13:30:02] Backup process completed
+[2025-11-29 14:00:01] Processing virtual environment: /venv/main
+[2025-11-29 14:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1400.txt
+[2025-11-29 14:00:02] Backup process completed
+[2025-11-29 14:30:01] Processing virtual environment: /venv/main
+[2025-11-29 14:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1430.txt
+[2025-11-29 14:30:02] Backup process completed
+[2025-11-29 15:00:01] Processing virtual environment: /venv/main
+[2025-11-29 15:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1500.txt
+[2025-11-29 15:00:02] Backup process completed
+[2025-11-29 15:30:01] Processing virtual environment: /venv/main
+[2025-11-29 15:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1530.txt
+[2025-11-29 15:30:02] Backup process completed
+[2025-11-29 16:00:01] Processing virtual environment: /venv/main
+[2025-11-29 16:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1600.txt
+[2025-11-29 16:00:02] Backup process completed
+[2025-11-29 16:30:01] Processing virtual environment: /venv/main
+[2025-11-29 16:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1630.txt
+[2025-11-29 16:30:02] Backup process completed
+[2025-11-29 17:00:01] Processing virtual environment: /venv/main
+[2025-11-29 17:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1700.txt
+[2025-11-29 17:00:02] Backup process completed
+[2025-11-29 17:30:01] Processing virtual environment: /venv/main
+[2025-11-29 17:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1730.txt
+[2025-11-29 17:30:02] Backup process completed
+[2025-11-29 18:00:01] Processing virtual environment: /venv/main
+[2025-11-29 18:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1800.txt
+[2025-11-29 18:00:02] Backup process completed
+[2025-11-29 18:30:01] Processing virtual environment: /venv/main
+[2025-11-29 18:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1830.txt
+[2025-11-29 18:30:02] Backup process completed
+[2025-11-29 19:00:01] Processing virtual environment: /venv/main
+[2025-11-29 19:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1900.txt
+[2025-11-29 19:00:02] Backup process completed
+[2025-11-29 19:30:01] Processing virtual environment: /venv/main
+[2025-11-29 19:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-1930.txt
+[2025-11-29 19:30:02] Backup process completed
+[2025-11-29 20:00:01] Processing virtual environment: /venv/main
+[2025-11-29 20:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2000.txt
+[2025-11-29 20:00:02] Backup process completed
+[2025-11-29 20:30:01] Processing virtual environment: /venv/main
+[2025-11-29 20:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2030.txt
+[2025-11-29 20:30:02] Backup process completed
+[2025-11-29 21:00:01] Processing virtual environment: /venv/main
+[2025-11-29 21:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2100.txt
+[2025-11-29 21:00:02] Backup process completed
+[2025-11-29 21:30:01] Processing virtual environment: /venv/main
+[2025-11-29 21:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2130.txt
+[2025-11-29 21:30:02] Backup process completed
+[2025-11-29 22:00:01] Processing virtual environment: /venv/main
+[2025-11-29 22:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2200.txt
+[2025-11-29 22:00:02] Backup process completed
+[2025-11-29 22:30:01] Processing virtual environment: /venv/main
+[2025-11-29 22:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2230.txt
+[2025-11-29 22:30:03] Backup process completed
+[2025-11-29 23:00:01] Processing virtual environment: /venv/main
+[2025-11-29 23:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2300.txt
+[2025-11-29 23:00:02] Backup process completed
+[2025-11-29 23:30:01] Processing virtual environment: /venv/main
+[2025-11-29 23:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-29-2330.txt
+[2025-11-29 23:30:02] Backup process completed
+[2025-11-30 00:00:01] Processing virtual environment: /venv/main
+[2025-11-30 00:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0000.txt
+[2025-11-30 00:00:02] Backup process completed
+[2025-11-30 00:26:41] Processing virtual environment: /venv/main
+[2025-11-30 00:26:41] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0026.txt
+[2025-11-30 00:26:42] Backup process completed
+[2025-11-30 00:30:01] Processing virtual environment: /venv/main
+[2025-11-30 00:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0030.txt
+[2025-11-30 00:30:02] Backup process completed
+[2025-11-30 01:00:01] Processing virtual environment: /venv/main
+[2025-11-30 01:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0100.txt
+[2025-11-30 01:00:02] Backup process completed
+[2025-11-30 01:30:01] Processing virtual environment: /venv/main
+[2025-11-30 01:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0130.txt
+[2025-11-30 01:30:02] Backup process completed
+[2025-11-30 02:00:01] Processing virtual environment: /venv/main
+[2025-11-30 02:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0200.txt
+[2025-11-30 02:00:02] Backup process completed
+[2025-11-30 02:30:01] Processing virtual environment: /venv/main
+[2025-11-30 02:30:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0230.txt
+[2025-11-30 02:30:02] Backup process completed
+[2025-11-30 03:00:01] Processing virtual environment: /venv/main
+[2025-11-30 03:00:02] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0300.txt
+[2025-11-30 03:00:02] Backup process completed
+[2025-11-30 03:30:01] Processing virtual environment: /venv/main
+[2025-11-30 03:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0330.txt
+[2025-11-30 03:30:02] Backup process completed
+[2025-11-30 04:00:01] Processing virtual environment: /venv/main
+[2025-11-30 04:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0400.txt
+[2025-11-30 04:00:02] Backup process completed
+[2025-11-30 04:30:01] Processing virtual environment: /venv/main
+[2025-11-30 04:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0430.txt
+[2025-11-30 04:30:02] Backup process completed
+[2025-11-30 05:00:01] Processing virtual environment: /venv/main
+[2025-11-30 05:00:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0500.txt
+[2025-11-30 05:00:02] Backup process completed
+[2025-11-30 05:19:33] Processing virtual environment: /venv/main
+[2025-11-30 05:19:34] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0519.txt
+[2025-11-30 05:19:34] Backup process completed
+[2025-11-30 05:30:01] Processing virtual environment: /venv/main
+[2025-11-30 05:30:01] SUCCESS: Created backup at /workspace/.venv-backups/28182397/venv-main-2025-11-30-0530.txt
+[2025-11-30 05:30:02] Backup process completed

@@ -1,0 +1,94 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            54v32d0gk1n1ff3pkmuz3gw50bzc7bk5:
+                args:
+                    - --config
+                    - config/camelyon17_medical_ssl_config.yml
+                codePath: ECE1512/wandb_run.py
+                codePathLocal: wandb_run.py
+                cpu_count: 36
+                cpu_count_logical: 72
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "107374182400"
+                        used: "41118457856"
+                email: kenweifeng@gmail.com
+                executable: /venv/mil/bin/python
+                git:
+                    commit: 60eb199391510c8b1f582642eb57a5358fbdf515
+                gpu: NVIDIA GeForce RTX 3090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 10496
+                      memoryTotal: "25769803776"
+                      name: NVIDIA GeForce RTX 3090
+                      uuid: GPU-24b612d7-fb35-5217-dae6-a48e74332585
+                host: 424b65a0b3dc
+                memory:
+                    total: "135048081408"
+                os: Linux-5.15.0-161-generic-x86_64-with-glibc2.35
+                program: /workspace/ECE1512/wandb_run.py
+                python: CPython 3.10.19
+                root: /workspace/ECE1512
+                startedAt: "2025-11-30T00:54:30.104712Z"
+                writerId: 54v32d0gk1n1ff3pkmuz3gw50bzc7bk5
+        m: []
+        python_version: 3.10.19
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 1
+                - 2
+                - 16
+                - 62
+            "4": 3.10.19
+            "5": 0.23.0
+            "12": 0.23.0
+            "13": linux-x86_64
+B:
+    value: 1
+D_feat:
+    value: 384
+D_inner:
+    value: 128
+backbone:
+    value: ViT-S/16
+config:
+    value: config/camelyon17_medical_ssl_config.yml
+data_dir:
+    value: ./Feature/camelyon17Feature/patch_feats_pretrain_medical_ssl.h5
+dataset:
+    value: CAMELYON17
+lr:
+    value: 0.001
+min_lr:
+    value: 0
+n_class:
+    value: 4
+n_shot:
+    value: -1
+n_worker:
+    value: 0
+pin_memory:
+    value: false
+pooling:
+    value: max
+pretrain:
+    value: medical_ssl
+train_epoch:
+    value: 50
+warmup_epoch:
+    value: 1
+wd:
+    value: 5e-05
