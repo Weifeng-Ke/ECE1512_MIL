@@ -1,0 +1,157 @@
+/venv/mil/lib/python3.11/site-packages/torchmetrics/utilities/imports.py:23: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Used config: {'train_epoch': 50, 'warmup_epoch': 0, 'wd': 5e-05, 'lr': 0.05, 'min_lr': 0, 'dataset': 'BRACS', 'n_class': 3, 'data_dir': './Feature/BRACSFeature/patch_feats_pretrain_medical_ssl.h5', 'n_worker': 8, 'pin_memory': False, 'n_shot': -1, 'B': 16, 'use_contrastive_loss': True, 'temperature': 0.1, 'alpha': 0.5, 'backbone': 'ViT-S/16', 'pretrain': 'medical_ssl', 'D_feat': 384, 'D_inner': 128, 'config': 'config_auto/b_16e.yml'}
+Configuration:
+<utils.Struct object at 0x71afb1663e90>
+* Acc@1 54.839 loss 1.105 auroc 0.645 f1_score 0.403
+* Acc@1 52.326 loss 0.893 auroc 0.683 f1_score 0.408
+------------------------------
+* Acc@1 54.839 loss 1.029 auroc 0.654 f1_score 0.395
+* Acc@1 54.651 loss 0.788 auroc 0.680 f1_score 0.425
+------------------------------
+* Acc@1 58.065 loss 1.008 auroc 0.663 f1_score 0.424
+* Acc@1 51.163 loss 0.745 auroc 0.692 f1_score 0.395
+------------------------------
+* Acc@1 58.065 loss 0.964 auroc 0.681 f1_score 0.421
+* Acc@1 52.326 loss 0.705 auroc 0.693 f1_score 0.407
+------------------------------
+* Acc@1 53.226 loss 0.951 auroc 0.700 f1_score 0.393
+* Acc@1 52.326 loss 0.678 auroc 0.696 f1_score 0.403
+------------------------------
+* Acc@1 59.677 loss 0.924 auroc 0.736 f1_score 0.450
+* Acc@1 51.163 loss 0.676 auroc 0.718 f1_score 0.394
+------------------------------
+* Acc@1 66.129 loss 0.917 auroc 0.735 f1_score 0.494
+* Acc@1 52.326 loss 0.654 auroc 0.701 f1_score 0.404
+------------------------------
+* Acc@1 66.129 loss 0.930 auroc 0.739 f1_score 0.493
+* Acc@1 51.163 loss 0.656 auroc 0.685 f1_score 0.397
+------------------------------
+* Acc@1 59.677 loss 0.895 auroc 0.726 f1_score 0.442
+* Acc@1 51.163 loss 0.617 auroc 0.711 f1_score 0.396
+------------------------------
+* Acc@1 59.677 loss 0.937 auroc 0.742 f1_score 0.448
+* Acc@1 52.326 loss 0.653 auroc 0.724 f1_score 0.403
+------------------------------
+* Acc@1 64.516 loss 0.876 auroc 0.759 f1_score 0.482
+* Acc@1 52.326 loss 0.613 auroc 0.711 f1_score 0.404
+------------------------------
+* Acc@1 61.290 loss 0.909 auroc 0.782 f1_score 0.449
+* Acc@1 55.814 loss 0.648 auroc 0.736 f1_score 0.434
+------------------------------
+* Acc@1 62.903 loss 0.880 auroc 0.757 f1_score 0.465
+* Acc@1 50.000 loss 0.612 auroc 0.715 f1_score 0.387
+------------------------------
+* Acc@1 61.290 loss 0.900 auroc 0.751 f1_score 0.457
+* Acc@1 52.326 loss 0.608 auroc 0.722 f1_score 0.406
+------------------------------
+* Acc@1 62.903 loss 0.874 auroc 0.766 f1_score 0.466
+* Acc@1 52.326 loss 0.609 auroc 0.710 f1_score 0.405
+------------------------------
+* Acc@1 66.129 loss 0.905 auroc 0.771 f1_score 0.490
+* Acc@1 52.326 loss 0.621 auroc 0.717 f1_score 0.405
+------------------------------
+* Acc@1 66.129 loss 0.893 auroc 0.766 f1_score 0.493
+* Acc@1 53.488 loss 0.624 auroc 0.729 f1_score 0.415
+------------------------------
+* Acc@1 64.516 loss 0.895 auroc 0.785 f1_score 0.480
+* Acc@1 52.326 loss 0.575 auroc 0.737 f1_score 0.406
+------------------------------
+* Acc@1 64.516 loss 0.893 auroc 0.778 f1_score 0.481
+* Acc@1 51.163 loss 0.589 auroc 0.726 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 0.893 auroc 0.786 f1_score 0.490
+* Acc@1 50.000 loss 0.589 auroc 0.717 f1_score 0.388
+------------------------------
+* Acc@1 61.290 loss 0.946 auroc 0.755 f1_score 0.456
+* Acc@1 50.000 loss 0.621 auroc 0.714 f1_score 0.388
+------------------------------
+* Acc@1 67.742 loss 0.881 auroc 0.802 f1_score 0.504
+* Acc@1 51.163 loss 0.607 auroc 0.728 f1_score 0.397
+------------------------------
+* Acc@1 62.903 loss 0.931 auroc 0.779 f1_score 0.461
+* Acc@1 52.326 loss 0.582 auroc 0.718 f1_score 0.406
+------------------------------
+* Acc@1 66.129 loss 0.957 auroc 0.778 f1_score 0.492
+* Acc@1 52.326 loss 0.604 auroc 0.713 f1_score 0.406
+------------------------------
+* Acc@1 66.129 loss 0.915 auroc 0.792 f1_score 0.492
+* Acc@1 51.163 loss 0.587 auroc 0.723 f1_score 0.397
+------------------------------
+* Acc@1 62.903 loss 0.954 auroc 0.765 f1_score 0.467
+* Acc@1 51.163 loss 0.589 auroc 0.710 f1_score 0.397
+------------------------------
+* Acc@1 64.516 loss 0.967 auroc 0.787 f1_score 0.481
+* Acc@1 51.163 loss 0.605 auroc 0.725 f1_score 0.398
+------------------------------
+* Acc@1 66.129 loss 0.965 auroc 0.785 f1_score 0.492
+* Acc@1 52.326 loss 0.588 auroc 0.733 f1_score 0.407
+------------------------------
+* Acc@1 66.129 loss 0.938 auroc 0.786 f1_score 0.492
+* Acc@1 51.163 loss 0.587 auroc 0.734 f1_score 0.398
+------------------------------
+* Acc@1 64.516 loss 0.963 auroc 0.774 f1_score 0.479
+* Acc@1 51.163 loss 0.597 auroc 0.721 f1_score 0.398
+------------------------------
+* Acc@1 67.742 loss 0.973 auroc 0.794 f1_score 0.504
+* Acc@1 51.163 loss 0.617 auroc 0.723 f1_score 0.397
+------------------------------
+* Acc@1 64.516 loss 0.968 auroc 0.782 f1_score 0.481
+* Acc@1 50.000 loss 0.626 auroc 0.710 f1_score 0.387
+------------------------------
+* Acc@1 66.129 loss 0.977 auroc 0.793 f1_score 0.492
+* Acc@1 51.163 loss 0.610 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 0.960 auroc 0.806 f1_score 0.492
+* Acc@1 51.163 loss 0.589 auroc 0.727 f1_score 0.398
+------------------------------
+* Acc@1 67.742 loss 0.977 auroc 0.798 f1_score 0.504
+* Acc@1 50.000 loss 0.621 auroc 0.720 f1_score 0.388
+------------------------------
+* Acc@1 66.129 loss 1.005 auroc 0.790 f1_score 0.492
+* Acc@1 50.000 loss 0.610 auroc 0.719 f1_score 0.388
+------------------------------
+* Acc@1 64.516 loss 1.010 auroc 0.784 f1_score 0.479
+* Acc@1 50.000 loss 0.603 auroc 0.717 f1_score 0.388
+------------------------------
+* Acc@1 67.742 loss 1.000 auroc 0.797 f1_score 0.504
+* Acc@1 51.163 loss 0.615 auroc 0.719 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.019 auroc 0.791 f1_score 0.492
+* Acc@1 52.326 loss 0.609 auroc 0.727 f1_score 0.407
+------------------------------
+* Acc@1 66.129 loss 1.007 auroc 0.793 f1_score 0.492
+* Acc@1 50.000 loss 0.616 auroc 0.721 f1_score 0.388
+------------------------------
+* Acc@1 66.129 loss 0.995 auroc 0.795 f1_score 0.492
+* Acc@1 50.000 loss 0.614 auroc 0.719 f1_score 0.388
+------------------------------
+* Acc@1 66.129 loss 0.999 auroc 0.794 f1_score 0.492
+* Acc@1 50.000 loss 0.614 auroc 0.717 f1_score 0.388
+------------------------------
+* Acc@1 66.129 loss 1.004 auroc 0.787 f1_score 0.492
+* Acc@1 51.163 loss 0.618 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.007 auroc 0.785 f1_score 0.492
+* Acc@1 51.163 loss 0.619 auroc 0.718 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.006 auroc 0.786 f1_score 0.492
+* Acc@1 51.163 loss 0.621 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.007 auroc 0.787 f1_score 0.492
+* Acc@1 51.163 loss 0.619 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.008 auroc 0.788 f1_score 0.492
+* Acc@1 51.163 loss 0.619 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.009 auroc 0.789 f1_score 0.492
+* Acc@1 51.163 loss 0.619 auroc 0.720 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.010 auroc 0.789 f1_score 0.492
+* Acc@1 51.163 loss 0.618 auroc 0.721 f1_score 0.397
+------------------------------
+* Acc@1 66.129 loss 1.010 auroc 0.789 f1_score 0.492
+* Acc@1 51.163 loss 0.618 auroc 0.722 f1_score 0.397
+------------------------------
+Results on best epoch:
+{'epoch': 21, 'val_acc': 67.74193572998047, 'val_auc': 0.8024872541427612, 'val_f1': 0.503703773021698, 'test_acc': 51.162790875102196, 'test_auc': 0.7282958030700684, 'test_f1': 0.3965686559677124}
